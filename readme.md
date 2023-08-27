@@ -4,10 +4,6 @@ A running list of useful queries for use with Google Analytics 4 data stored in 
 
 Documentation and other details for these queries can be found at [Kevinleary.net > Google Analytics Queries for BigQuery](https://www.kevinleary.net/blog/google-analytics-queries-for-bigquery/). If you have any recommendations or want to make suggestions/additions feel free to submit a [pull request](https://github.com/Kevinlearynet/bigquery-google-analytics-queries/pulls).
 
-## Table of Contents
-
-
-
 ## Daily Pageviews by Traffic Source
 
 ```.language-sql
